@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(vercel deploy --prod --yes --cwd \"e:\\\\Media\\\\porfolio\" 2>&1)"
+    ]
+  }
+}
